@@ -1,0 +1,109 @@
+.body-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    letter-spacing: 7px;
+}
+
+.subtitles{
+    display: flex;
+    flex-direction:row;
+}
+.subtitle1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+letter-spacing: 5px;
+color: red;
+}
+
+.subtitle2{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+letter-spacing: 5px;
+color: black ;
+}
+
+.subtitle3{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+letter-spacing: 5px;
+color: blue;
+}
+
+.image{
+    width: 680px;
+    height: 600px;
+    border-radius: 20px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    background-image: url(https://binghamprospector.org/wp-content/uploads/2021/03/cropmarvel-vs-dc-e1616595848516-689x900.jpg);
+}
+
+.Teams{
+    display:flex;
+    flex-direction:row;
+}
+.DC{
+    padding-right:175px;
+    flex-direction:row;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+}
+
+#DC1{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+}
+
+#DC2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+}
+
+#DC3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+}
+
+#DCP{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+}
+
+.Marvel{
+    padding-right:206px;
+    flex-direction:row;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+#M1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+#M2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+#M3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+#MP{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+.fight {
+    
+}
+
